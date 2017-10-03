@@ -1,0 +1,25 @@
+body {
+  font-size: 24px;
+}
+
+section {
+  padding: 50px 0;
+}
+
+header {
+  position: static;
+  padding: 20px;
+  background: rgba(0, 191, 255, 0.25);
+  color: #666;
+  width: 100%;
+}
+
+header.active {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.h {
+  
+}

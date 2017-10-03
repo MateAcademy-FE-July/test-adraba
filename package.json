@@ -1,0 +1,34 @@
+{
+  "name": "site-kfund-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuchiko/site-kfund-media.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1"
+  },
+  "keywords": [
+    "gulp",
+    "git",
+    "wp",
+    "wordpress",
+    "scss",
+    "sass",
+    "js",
+    "html",
+    "theme"
+  ],
+  "author": "yuchiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuchiko/site-kfund-media/issues"
+  },
+  "homepage": "https://github.com/yuchiko/site-kfund-media#readme"
+}
